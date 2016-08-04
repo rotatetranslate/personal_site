@@ -1,0 +1,31 @@
+body {
+  background-color: #335F70;
+  margin: 0px 50px 0px 50px;
+}
+
+h1, h2 {
+  font-family: 'Lato';
+  font-weight: 200;
+  color: #FAD4C0;
+}
+
+p {
+  font-family: 'Open sans';
+  font-weight: 200;
+  color: #FAD4C0;
+}
+
+a {
+  color: #FFAE8E;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.contact {
+  height: 60px;
+  width: 60px;
+  fill: #FAD4C0;
+}
+
+
+
